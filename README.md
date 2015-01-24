@@ -1,4 +1,4 @@
-SEARCH Hospital Reports
+Possible Reports
 ========================
 
 Report repository for SEARCH specific reports (using Jasper). You can access these reports in Bahmni at the following URL: `http://<IP>:8080/jasperserver`
